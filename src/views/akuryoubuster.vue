@@ -68,7 +68,7 @@ img{
   width: 100%;
   height: 100%;
   z-index: 1;
-  background-image: url(~@/assets/imgs/background/washi.jpg);
+  background-image: url(../../assets/imgs/background/washi.jpg);
   opacity: 0.1;
 }
 
