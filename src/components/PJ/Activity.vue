@@ -44,7 +44,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(~@/assets/imgs/background/activitybg.png) top left / cover no-repeat;
+    background: url(../..//assets/imgs/background/activitybg.png) top left / cover no-repeat;
     z-index: 0;
 }
 
