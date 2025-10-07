@@ -13,58 +13,58 @@ export default {
     return{
       petals: [
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira2.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira2.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira.png'),
         },
         {
-          petalImg: require('@/assets/gamepage/桜/hanabira3.png'),
+          petalImg: require('@/assets/gamepage/cherryblossoms/hanabira3.png'),
         },
       ]
     }

@@ -2,19 +2,19 @@
   <section class="chapter" id="symbol">
     <div class="chapterWrap">
       <div class="chapterTitle">
-        <img src="@/assets/gamepage/シンボル/シンボル.png" alt="">
+        <img src="@/assets/gamepage/symbols/シンボル.png" alt="">
       </div>
       <span class="cardBg">
         <div class="symbolbgImg">
-          <img src="@/assets/gamepage/シンボル/シンボル悪霊退散.png" alt="">
+          <img src="@/assets/gamepage/symbols/シンボル悪霊退散.png" alt="">
         </div>
         <div class="symbolbgImg">
-          <img src="@/assets/gamepage/シンボル/シンボル悪霊退散.png" alt="">
+          <img src="@/assets/gamepage/symbols/シンボル悪霊退散.png" alt="">
         </div>
       </span>
       <div class="symbolExp">
         <div class="symbolPic">
-          <img src="@/assets/gamepage/シンボル/星カード.png" alt="">
+          <img src="@/assets/gamepage/symbols/星カード.png" alt="">
         </div>
         <div class="symbolText">
           <p>
@@ -48,7 +48,7 @@ export default {
 <style scoped>
 #symbol{
   position: relative;
-  background: url(~@/assets/gamepage/シンボル/シンボル四角背景.png) top center / cover no-repeat;
+  background: url(~@/assets/gamepage/symbols/シンボル四角背景.png) top center / cover no-repeat;
   color: #ffffff;
   z-index: 5;
 }
@@ -60,7 +60,7 @@ export default {
   height: 0;
   padding-bottom: 50px;
   height: auto;
-  background: url(~@/assets/gamepage/シンボル/シンボルギザギザ部分.png) center top repeat-x;
+  background: url(~@/assets/gamepage/symbols/シンボルギザギザ部分.png) center top repeat-x;
   background-size: auto 100%;
   content: "";
 }

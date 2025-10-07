@@ -2,26 +2,26 @@
   <header class="header_game">
     <nav class="headerNav">
       <a v-scroll-to="'#story'">
-        <img src="@/assets/gamepage/タイトル/story_head.png" alt="">
+        <img src="@/assets/gamepage/title/story_head.png" alt="">
       </a>
       <a v-scroll-to="'#exorcism'">
-        <img src="@/assets/gamepage/タイトル/exorcism_head.png" alt="">
+        <img src="@/assets/gamepage/title/exorcism_head.png" alt="">
       </a>
       <a v-scroll-to="'#character'">
-        <img src="@/assets/gamepage/タイトル/character_head.png" alt="">
+        <img src="@/assets/gamepage/title/character_head.png" alt="">
       </a>
       <a v-scroll-to="'#symbol'">
-        <img src="@/assets/gamepage/タイトル/symbol_head.png" alt="">
+        <img src="@/assets/gamepage/title/symbol_head.png" alt="">
       </a>
     </nav>
   </header>
   <section class="top" id="title">
     <div class="topImgandLogo">
       <div class="titlePortrait">
-        <!--<img src="@/assets/gamepage/タイトル/title_portrait.png" alt="">-->
+        <!--<img src="@/assets/gamepage/title/title_portrait.png" alt="">-->
       </div>
       <div class="titleLogo">
-        <img src="@/assets/gamepage/タイトル/ロゴver4.1.png" alt="">
+        <img src="@/assets/gamepage/title/ロゴver4.1.png" alt="">
       </div>
     </div>
   </section>
@@ -48,7 +48,7 @@
 .top{
   width: 100%;
   height: 100vh;
-  background: url(~@/assets/gamepage/タイトル/haikei_hosi.jpg) top center / cover no-repeat;
+  background: url(~@/assets/gamepage/title/haikei_hosi.jpg) top center / cover no-repeat;
   overflow: hidden;
 }
 
@@ -70,7 +70,7 @@
   top: 0;
   width: 100%;
   height: 100%;
-  background: url(~@/assets/gamepage/タイトル/title_portrait.png) top center / cover no-repeat;
+  background: url(~@/assets/gamepage/title/title_portrait.png) top center / cover no-repeat;
   background-position-y: 5vh;
 }
 
@@ -80,7 +80,7 @@
   right: 10%;
   width: 40%;
   height: auto;
-  /*background: url(~@/assets/gamepage/タイトル/ロゴver4.1.png) top center / cover no-repeat;*/
+  /*background: url(~@/assets/gamepage/title/ロゴver4.1.png) top center / cover no-repeat;*/
 }
 
 @media screen and (max-width: 768px) {

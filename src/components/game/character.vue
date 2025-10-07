@@ -3,23 +3,23 @@
     <Bloom/>
     <div class="chapterWrap">
       <div class="chapterTitle">
-        <img src="@/assets/gamepage/キャラクター/キャラクター.png" alt="">
+        <img src="@/assets/gamepage/charactars/charactars.png" alt="">
       </div>
       <div class="characterList">
         <span class="characterBg">
           <div class="goodness">
-            <img src="@/assets/gamepage/キャラクター/善背景.png" alt="">
+            <img src="@/assets/gamepage/charactars/善背景.png" alt="">
           </div>
           <div class="badness">
-            <img src="@/assets/gamepage/キャラクター/悪背景.png" alt="">
+            <img src="@/assets/gamepage/charactars/悪背景.png" alt="">
           </div>
           <div class="badness">
-            <img src="@/assets/gamepage/キャラクター/悪背景.png" alt="">
+            <img src="@/assets/gamepage/charactars/悪背景.png" alt="">
           </div>
         </span>
         <div class="characterWrap">
           <div class="characterImg">
-            <img src="@/assets/gamepage/キャラクター/主人公.png" alt="">
+            <img src="@/assets/gamepage/charactars/主人公.png" alt="">
           </div>
           <div class="characterText">
             <p>
@@ -31,7 +31,7 @@
         </div>
         <div class="characterWrap">
           <div class="characterImg">
-            <img src="@/assets/gamepage/キャラクター/ガン.png" alt="">
+            <img src="@/assets/gamepage/charactars/ガン.png" alt="">
           </div>
           <div class="characterText">
             <p>
@@ -42,7 +42,7 @@
         </div>
         <div class="characterWrap">
            <div class="characterImg">
-            <img src="@/assets/gamepage/キャラクター/金平糖.png" alt="">
+            <img src="@/assets/gamepage/charactars/金平糖.png" alt="">
           </div>
           <div class="characterText">
             <p>
@@ -69,7 +69,7 @@ export default {
 <style scoped>
 #character{
   position: relative;
-  background: url(../../assets/gamepage/キャラクター/キャラクター四角背景.png) top center / cover no-repeat;
+  background: url(../../assets/gamepage/charactars/charactars四角背景.png) top center / cover no-repeat;
   z-index: 4;
 }
 
@@ -80,7 +80,7 @@ export default {
   height: 0;
   padding-bottom: 50px;
   height: auto;
-  background: url(~@/assets/gamepage/キャラクター/キャラクターギザギザ部分.png) center top repeat-x;
+  background: url(~@/assets/gamepage/charactars/charactarsギザギザ部分.png) center top repeat-x;
   background-size: auto 100%;
   content: "";
 }
@@ -102,7 +102,7 @@ export default {
   max-width: 70px;
   height: 100%;
   content: "";
-  background: url(~@/assets/gamepage/キャラクター/anotherGhost.png) center center / cover no-repeat;
+  background: url(~@/assets/gamepage/charactars/anotherGhost.png) center center / cover no-repeat;
   background-size: 100% auto;
 }
 
@@ -148,7 +148,7 @@ export default {
 
 @media screen and (max-width: 900px) {
   #character{
-    background: url(../../assets/gamepage/キャラクター/キャラクター四角背景.png) top left / cover no-repeat;
+    background: url(../../assets/gamepage/charactars/charactars四角背景.png) top left / cover no-repeat;
   }
   .characterList{
     flex-direction: column;

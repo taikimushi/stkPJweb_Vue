@@ -4,7 +4,7 @@
             <h1 class="sectiontitle">game</h1>
             <div class="gameimgwrap">
                 <div class="gameimg titleimg">
-                    <img src="@/assets/gamepage/タイトル/タイトル画面_文字無し.jpg" alt="">
+                    <img src="@/assets/gamepage/title/タイトル画面_文字無し.jpg" alt="">
                 </div>
                 <div class="gameimg portrait">
                     <img src="@/assets/imgs/game/portrait.png" alt="">

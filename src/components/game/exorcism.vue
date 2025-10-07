@@ -2,7 +2,7 @@
   <section class="chapter" id="exorcism">
     <div class="chapterWrap">
       <div class="chapterTitle">
-        <img src="@/assets/gamepage/悪霊退散/悪霊退散タイトル.png" alt="">
+        <img src="@/assets/gamepage/exorcism/悪霊退散タイトル.png" alt="">
       </div>
       <div class="exorcismCard">
         <div class="exorcismImg">
@@ -39,7 +39,7 @@
           </p>
         </div>
         <div class="exorcismImg">
-          <img src="@/assets/gamepage/悪霊退散/しゃがみ.png" alt="">
+          <img src="@/assets/gamepage/exorcism/しゃがみ.png" alt="">
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
 <style scoped>
 #exorcism{
   position: relative;
-  background: url(~@/assets/gamepage/悪霊退散/悪霊退散四角背景.png) top center / cover no-repeat;
+  background: url(~@/assets/gamepage/exorcism/悪霊退散四角背景.png) top center / cover no-repeat;
   color: #ffffff;
   z-index: 3;
 }
@@ -61,7 +61,7 @@
   height: 0;
   padding-bottom: 50px;
   height: auto;
-  background: url(~@/assets/gamepage/悪霊退散/悪霊退散ギザギザ部分.png) center top repeat-x;
+  background: url(~@/assets/gamepage/exorcism/悪霊退散ギザギザ部分.png) center top repeat-x;
   background-size: auto 100%;
   content: "";
 }
@@ -110,13 +110,13 @@
 .exorcismImg:nth-child(1)::before{
   top: -50px;
   left: -5px;
-  background: url(~@/assets/gamepage/悪霊退散/exorcismLabel.png) top center / contain no-repeat;
+  background: url(~@/assets/gamepage/exorcism/exorcismLabel.png) top center / contain no-repeat;
 }
 
 .exorcismImg:nth-child(2)::before{
   top: -20px;
   right: 30%;
-  background: url(~@/assets/gamepage/悪霊退散/guardLabel.png) top center / contain no-repeat;
+  background: url(~@/assets/gamepage/exorcism/guardLabel.png) top center / contain no-repeat;
 }
 
 .exorcismText{

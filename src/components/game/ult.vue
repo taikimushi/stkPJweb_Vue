@@ -1,17 +1,17 @@
 <template>
   <div class="chapter" id="ult">
     <div class="ultBg">
-      <img src="@/assets/gamepage/シンボル/必殺技背景.png" alt="">
+      <img src="@/assets/gamepage/symbols/必殺技背景.png" alt="">
     </div>
     <div class="chapterWrap">
       <div class="ultWrap">
         <div class="ultMoji">
-          <img src="@/assets/gamepage/シンボル/必殺技.png" alt="" class="v-ult">
-          <img src="@/assets/gamepage/シンボル/必殺技横.png" alt="" class="h-ult">
+          <img src="@/assets/gamepage/symbols/必殺技.png" alt="" class="v-ult">
+          <img src="@/assets/gamepage/symbols/必殺技横.png" alt="" class="h-ult">
         </div>
 
         <div class="ultCard">
-          <img src="@/assets/gamepage/シンボル/宇宙カード.png" alt="">
+          <img src="@/assets/gamepage/symbols/宇宙カード.png" alt="">
         </div>
 
         <div class="ultText">
@@ -97,7 +97,7 @@
   position: absolute;
   bottom: -50px;
   display: inline-block;
-  background: url(../../assets/gamepage/シンボル/universe.png) center center no-repeat;
+  background: url(../../assets/gamepage/symbols/universe.png) center center no-repeat;
   background-size: contain;
   content: "";
   width: 100%;
