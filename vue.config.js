@@ -2,7 +2,7 @@ const path = require('path')
 const Prerender = require('prerender-spa-plugin')
 
 module.exports = {
-    publicPath: '/~proj2021-16/',
+    publicPath: process.env.PROCESS_ENV_BASE_URL || '/',
 
     configureWebpack: () => {
         return {
@@ -14,7 +14,7 @@ module.exports = {
 
                     indexPath: path.join(__dirname, "dist/index.html"),
 
-                    routes: [ '/', '/akuryoubuster' ]
+                    routes: ['/', '/akuryoubuster']
                 })
             ]
         }
