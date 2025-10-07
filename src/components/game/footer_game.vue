@@ -1,0 +1,58 @@
+<template>
+  <footer class="footer_game">
+    <nav class="footerNav">
+      <a v-scroll-to="'#story'">
+        <img src="@/assets/gamepage/footer/story_foot.png" alt="">
+      </a>
+      <a v-scroll-to="'#exorcism'">
+        <img src="@/assets/gamepage/footer/exorcism_foot.png" alt="">
+      </a>
+      <a v-scroll-to="'#character'">
+        <img src="@/assets/gamepage/footer/character_foot.png" alt="">
+      </a>
+      <a v-scroll-to="'#symbol'">
+        <img src="@/assets/gamepage/footer/symbol_foot.png" alt="">
+      </a>
+    </nav>
+    <div class="pjLink">
+      <router-link to="/" target="_blank" ref="noreferrer noopener"/>
+      <img src="@/assets/gamepage/footer/PJボタン.png" alt="">
+    </div>
+    <small>&copy; 2021 佐竹プロジェクト All rights reserved</small>
+  </footer>
+</template>
+
+<style scoped>
+.footer_game{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 30vh;
+  background: url(~@/assets/gamepage/footer/フッター背景.png) top center / cover repeat;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.footerNav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.pjLink{
+  position: relative;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pjLink a{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
