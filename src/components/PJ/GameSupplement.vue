@@ -251,11 +251,11 @@ export default{
 }
 
 .why::before{
-  background: url(~@/assets/imgs/game/why.png) top center / contain no-repeat;
+  background: url(../../assets/imgs/game/why.png) top center / contain no-repeat;
 }
 
 .howdid::before{
-  background: url(~@/assets/imgs/game/howdid.png) top center / contain no-repeat;
+  background: url(../../assets/imgs/game/howdid.png) top center / contain no-repeat;
 }
 
 .readmore{
