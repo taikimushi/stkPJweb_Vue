@@ -3,7 +3,7 @@
     <Bloom/>
     <div class="chapterWrap">
       <div class="chapterTitle">
-        <img src="@/assets/gamepage/物語/物語.png" alt="">
+        <img src="@/assets/gamepage/story/物語.png" alt="">
       </div>
       <div class="storyCard">
         <div class="storyText">
@@ -15,12 +15,12 @@
         </p>
       </div>
         <div class="storyImg">
-          <img src="@/assets/gamepage/物語/IMG_1412.jpg" alt="">
+          <img src="@/assets/gamepage/story/IMG_1412.jpg" alt="">
         </div>
       </div>
       <div class="storyCard">
         <div class="storyImg">
-          <img src="@/assets/gamepage/物語/IMG_1415.jpg" alt="">
+          <img src="@/assets/gamepage/story/IMG_1415.jpg" alt="">
         </div>
         <div class="storyText">
         <p>
@@ -33,7 +33,7 @@
       </div>
       <div class="storyCard">
         <div class="storyImg">
-          <img src="@/assets/gamepage/物語/IMG_1416.jpg" alt="">
+          <img src="@/assets/gamepage/story/IMG_1416.jpg" alt="">
         </div>
         <div class="storyText">
         <p>
@@ -61,7 +61,7 @@ export default {
 <style scoped>
 #story {
   width: 100%;
-  background: url(~@/assets/gamepage/物語/物語背景_2.png) top center / cover no-repeat;
+  background: url(~@/assets/gamepage/story/物語背景_2.png) top center / cover no-repeat;
 }
 
 .storyCard{
@@ -93,7 +93,7 @@ export default {
 
 @media screen and (max-width: 768px) {
   #story{
-    background: url(~@/assets/gamepage/物語/物語背景_2.png) top left / cover no-repeat;
+    background: url(~@/assets/gamepage/story/物語背景_2.png) top left / cover no-repeat;
   }
 
   .storyCard{

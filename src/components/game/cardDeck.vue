@@ -47,103 +47,103 @@ export default defineComponent({
     return{
       cards: [
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card2_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card2_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card3_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card3_0.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card3_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card3_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card3_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card3_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card3_3.png')
+          url: require('@/assets/gamepage/symbols/cards/Card3_3.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_0.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_3.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_3.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_4.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_4.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_5.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_5.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card4_6.png')
+          url: require('@/assets/gamepage/symbols/cards/Card4_6.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_0.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_3.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_3.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_4.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_4.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_5.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_5.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card5_6.png')
+          url: require('@/assets/gamepage/symbols/cards/Card5_6.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card6_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card6_0.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card6_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card6_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card6_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card6_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card6_3.png')
+          url: require('@/assets/gamepage/symbols/cards/Card6_3.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card6_4.png')
+          url: require('@/assets/gamepage/symbols/cards/Card6_4.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card7_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card7_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card7_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card7_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card7_3.png')
+          url: require('@/assets/gamepage/symbols/cards/Card7_3.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card8_1.png')
+          url: require('@/assets/gamepage/symbols/cards/Card8_1.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card8_2.png')
+          url: require('@/assets/gamepage/symbols/cards/Card8_2.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card9_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card9_0.png')
         },
         {
-          url: require('@/assets/gamepage/シンボル/cards/Card14_0.png')
+          url: require('@/assets/gamepage/symbols/cards/Card14_0.png')
         },
       ]
     }
